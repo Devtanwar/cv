@@ -1,0 +1,12 @@
+body {background-color:lightblue;}
+hr {
+width: 5%;
+border-style:none;
+border-top-style:dotted;
+border-width:5px;
+border-color: grey;
+
+
+
+}
+h1{color: black; font-style: italic;}
